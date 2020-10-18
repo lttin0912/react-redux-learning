@@ -1,0 +1,25 @@
+{
+    "tasks": [
+       {
+        "id": 1,
+        "title": "Read book",
+        "description": "Reading Harry Porter",
+        "status": 0
+       },
+       {
+        "id": 2,
+        "title": "Play game",
+        "description": "Play Fifa Online 4",
+        "status": 1
+       },
+       {
+        "id": 3,
+        "title": "Learning",
+        "description": "Learning ReactJS",
+        "status": 2
+       }
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+      ]
+}
