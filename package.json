@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "eslint": "^6.0.0",
-    "eslint-plugin-react": "^7.21.4"
+    "eslint-plugin-react": "^7.21.4",
+    "husky": "^4.3.0"
   }
 }
