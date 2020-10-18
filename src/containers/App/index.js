@@ -6,12 +6,12 @@ import Taskboard from '../Taskboard';
 import theme from '../../commons/Theme';
 
 class App extends Component {
-    render() {
-        return (
-            <ThemeProvider theme={theme}>
-                <Taskboard></Taskboard>
-            </ThemeProvider>
-        );
-    }
+  render() {
+    return (
+      <ThemeProvider theme={theme}>
+        <Taskboard></Taskboard>
+      </ThemeProvider>
+    );
+  }
 }
 export default withStyles(styles)(App);
